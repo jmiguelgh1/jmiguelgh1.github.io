@@ -24,4 +24,51 @@ nav a {
     display: block;
     clear: both;
 }
+    
+#home {
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.2) 100%), url('../img/pug.jpg') no-repeat center;
+    padding: 200px 0;
+    text-align: center;
+    color: #fff;
+
+}
+#home h2 {
+    font-size: 4em;
+}
+
+#home div {
+    margin-top: 100px;
+}
+
+#home q {
+    font-style: italic;
+}
+
+#center div {
+    float: right;
+    width: 47.7%;
+    padding: 30px;
+    height: 400px;
+    text-align: center;
+}
+
+#center div:first-child {
+    padding-top: 60px;
+}
+#center div:last-child {
+    height: 610px;
+    padding: 0;
+    overflow: hidden;
+}
+
+#center img {
+    height: 40%
+}
+.fb, .tw, .ins, .gog {
+    float: left;
+    padding: 4%;
+    margin: 2%;
+    width: 12%;
+    height: auto;       
+}
 
