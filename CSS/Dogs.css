@@ -86,22 +86,7 @@ nav a {
     color: bisque;
 }
 
-.fb img {
-    width: 300px;
-    height: 200px;
-}
-
-.tw img {
-    width: 300px;
-    height: 200px;
-}
-
-.ins img {
-    width: 300px;
-    height: 200px;
-}
-
-.gog img {
+.fb img, .tw img, .ins img, .gog img {
     width: 300px;
     height: 200px;
 }
