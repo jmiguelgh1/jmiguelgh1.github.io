@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+}
+
+.col-md-12, center {
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.1) 100%), url('../img/wine14.jpg') no-repeat center;
+    padding: 40px 0;
+    text-align: center;
+    color: #fff;
+
+}
+.navbar {
+    background: transparent;
+    
+}
+
